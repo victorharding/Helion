@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 478.2 161.9">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: SourceSansPro-Regular, 'Source Sans Pro';
+        font-size: 106.93px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-family: Montserrat-Black, Montserrat;
+        font-size: 136.9px;
+        font-weight: 800;
+      }
+
+      .cls-3 {
+        fill: #f28705;
+      }
+    </style>
+  </defs>
+  <g id="Logo_01:_600_x_600_px" data-name="Logo 01: 600 x 600 px">
+    <g>
+      <g>
+        <rect class="cls-3" y="0" width="154.05" height="154.05" rx="23.15" ry="23.15"/>
+        <text class="cls-2" transform="translate(21.99 124.94)"><tspan x="0" y="0">H</tspan></text>
+      </g>
+      <text class="cls-1" transform="translate(185.32 118.38)"><tspan x="0" y="0">Helion</tspan></text>
+    </g>
+  </g>
+</svg>

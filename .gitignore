@@ -1,0 +1,6 @@
+
+# Optional REPL history
+.next
+
+# Dependency directories
+node_modules
