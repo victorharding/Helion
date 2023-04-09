@@ -1,5 +1,4 @@
 import { useState } from "react"
-
 import {navLinks} from '../../../data/linksDatta';
 import Button from "../button";
 
@@ -13,7 +12,7 @@ const Navbar = () => {
             <li   key={nav.id}
             className= {`font-poppins 
             font-normal cursor-pointer text-[16px] ${index === navLinks.length-1 ? 'mr-0' : 'mr-10'}
-            text-black`}
+            text-black` }
             >
               <a href={`${nav.id}`}>
                 {nav.title}
