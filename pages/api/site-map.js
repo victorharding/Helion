@@ -4,10 +4,22 @@ const { Readable } = require('stream');
 export default async (req, res) => {
   // An array with your pages.
   const links = [
-    { url: '/', changefreq: 'weekly', priority: 1 },
-    { url: '/about', changefreq: 'weekly', priority: 1 },
-    { url: '/contact', changefreq: 'weekly', priority: 1 },
-    { url: '/portfolio', changefreq: 'weekly', priority: 1 },
+    { url: 'https://www.helion.digital/', changefreq: 'weekly', priority: 1 },
+    {
+      url: 'https://www.helion.digital/about',
+      changefreq: 'weekly',
+      priority: 1,
+    },
+    {
+      url: 'https://www.helion.digital/contact',
+      changefreq: 'weekly',
+      priority: 1,
+    },
+    {
+      url: 'https://www.helion.digital/portfolio',
+      changefreq: 'weekly',
+      priority: 1,
+    },
   ];
 
   // Create a stream to write to
