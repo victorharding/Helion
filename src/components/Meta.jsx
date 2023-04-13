@@ -19,7 +19,11 @@ const Meta = ({title, keywords, description, ogTitle, ogType, ogUrl, ogImage}) =
  Meta.defaultProps = {
      title: "Helion",
      keywords: "Software Development Company, ",
-     description: "S",
-     ogTitle: "S"
+     description: "Software Development Company",
+     ogTitle: "Helion",
+     ogType: "website",
+     ogUrl: "https://helion.digital/",
+     ogImage :"/favicon.ico",
+
  }
 export default Meta;
