@@ -17,7 +17,7 @@ const about = () => {
 
     <div className="flex flex-wrap sm:justify-start justify-center w-full feedback-container relative z-[1]">
     <p className={`${styles.paragraph} text-left max-w-[800px]`}>
-    Helion is a leading software development and innovation firm that empowers the world’s most influential brands through software development. Our expertise spans the entire application development lifecycle including dedicated development teams, custom software development  and world class advise. We deliver best-in-class software solutions that impower our clients to achieve there dreams. With  the world’s brightest software professionals.
+    Helion is a leading software development and innovation firm that empowers the world’s most influential brands through software development. Our expertise spans the entire application development lifecycle including dedicated development teams, custom software development, and world-class advice. We deliver best-in-class software solutions that empower our clients to achieve their dreams. With the world’s brightest software professionals.
     </p>
     </div>
   </section>
