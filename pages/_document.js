@@ -25,8 +25,7 @@ export default class MyDocument extends Document {
         </Head>
         <body>
           <Main />
-          <NextScript />
-          <script type="application/ld+json">
+                <script type="application/ld+json">
             {JSON.stringify(
             {
   "@context": "https://schema.org",
@@ -69,6 +68,7 @@ export default class MyDocument extends Document {
 };
             )}
            </script>
+          <NextScript />
         </body>
       </Html>
     )
