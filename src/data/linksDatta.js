@@ -29,12 +29,12 @@ export const footerLinks = [
     title: 'Contact Us',
     links: [
       {
-        name: 'info@helion.digital',
-        link: 'mailto:info@helion.digital',
+        name: 'info@helion-studio.com',
+        link: 'mailto:info@helion-studio.com',
       },
       {
-        name: '+1 7408471830',
-        link: 'tel:740-847-1830',
+        name: '+27 0672233609',
+        link: 'tel:0672233609',
       },
     ],
   },
