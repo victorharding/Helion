@@ -10,7 +10,7 @@ module.exports = {
     extend: {
       colors: {
         primary: '#FFFFFF',
-        secondary: 'orange',
+        secondary: '#FF5722',
         dimBlack: 'rgba(0, 0, 0, 0.7)',
         dimWhite: 'rgba(255, 255, 255, 0.7)',
         dimBlue: 'rgba(9, 151, 124, 0.1)',
