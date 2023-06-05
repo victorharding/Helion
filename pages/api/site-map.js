@@ -4,91 +4,91 @@ const { Readable } = require('stream');
 export default async (req, res) => {
   // An array with your pages.
   const links = [
-    { url: 'https://www.helion.digital/', changefreq: 'weekly', priority: 1 },
+    { url: 'https://www.helion-studio.com/', changefreq: 'weekly', priority: 1 },
     {
-      url: 'https://www.helion.digital/about',
+      url: 'https://www.helion-studio.com/about',
       changefreq: 'weekly',
       priority: 1,
     },
     {
-      url: 'https://www.helion.digital/contact',
+      url: 'https://www.helion-studio.com/contact',
       changefreq: 'weekly',
       priority: 1,
     },
     {
-      url: 'https://www.helion.digital/portfolio',
+      url: 'https://www.helion-studio.com/portfolio',
       changefreq: 'weekly',
       priority: 1,
     },
     {
-      url: 'https://www.helion.digital/services',
+      url: 'https://www.helion-studio.com/services',
       changefreq: 'weekly',
       priority: 1,
     },
     {
-      url: 'https://www.helion.digital/services/Dedicated-Development-Team',
+      url: 'https://www.helion-studio.com/services/Dedicated-Development-Team',
       changefreq: 'weekly',
       priority: 1,
     },
      {
-      url: 'https://www.helion.digital/services/Custom-Software-Development',
+      url: 'https://www.helion-studio.com/services/Custom-Software-Development',
       changefreq: 'weekly',
       priority: 1,
     },
 
      {
-       url: 'https://www.helion.digital/technology',
+       url: 'https://www.helion-studio.com/technology',
       changefreq: 'weekly',
       priority: 1,
     },
 
      {
-      url: 'https://www.helion.digital/technology/front-end',
+      url: 'https://www.helion-studio.com/technology/front-end',
       changefreq: 'weekly',
       priority: 1,
     },
      {
-      url: 'https://www.helion.digital/technology/node',
+      url: 'https://www.helion-studio.com/technology/node',
       changefreq: 'weekly',
       priority: 1,
     },
      {
-      url: 'https://www.helion.digital/technology/php',
+      url: 'https://www.helion-studio.com/technology/php',
       changefreq: 'weekly',
       priority: 1,
     },
      {
-      url: 'https://www.helion.digital/technology/net',
+      url: 'https://www.helion-studio.com/technology/net',
       changefreq: 'weekly',
       priority: 1,
     },
      {
-      url: 'https://www.helion.digital/technology/mobile',
+      url: 'https://www.helion-studio.com/technology/mobile',
       changefreq: 'weekly',
       priority: 1,
     },
      {
-      url: 'https://www.helion.digital/technology/java',
+      url: 'https://www.helion-studio.com/technology/java',
       changefreq: 'weekly',
       priority: 1,
     },
       {
-      url: 'https://www.helion.digital/industries',
+      url: 'https://www.helion-studio.com/industries',
       changefreq: 'weekly',
       priority: 1,
     },
      {
-      url: 'https://www.helion.digital/industries/real-estate',
+      url: 'https://www.helion-studio.com/industries/real-estate',
       changefreq: 'weekly',
       priority: 1,
     },
      {
-      url: 'https://www.helion.digital/industries/travel',
+      url: 'https://www.helion-studio.com/industries/travel',
       changefreq: 'weekly',
       priority: 1,
     },
       {
-      url: 'https://www.helion.digital/industries/eCommerce',
+      url: 'https://www.helion-studio.com/industries/eCommerce',
       changefreq: 'weekly',
       priority: 1,
     },
