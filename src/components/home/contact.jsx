@@ -15,7 +15,7 @@ const Contact = () => (
         <a href="mailto:info@helion.digital" target="_blank">info@helion.digital</a>
         </li>
         <li className={`mb-2 hover:text-secondary`}>
-        <a href="https://goo.gl/maps/h1R6WKRvT8bUrL2z9" target="_blank">9461 Charleville <br/> BlvdBeverly Hills, CA 90212, USA</a>
+        <a href="https://goo.gl/maps/ECi4a4ntsfTh9D7E6" target="_blank">374 Emus Erasmus Ave,<br/> Erasmusrand, Pretoria, 0165</a>
         </li>
         <li className="hover:text-secondary">
         <a href="tel:740-847-1830">+1 740847183</a>
