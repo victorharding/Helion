@@ -26,9 +26,9 @@ export default class MyDocument extends Document {
         <body>
           <Main />
           <NextScript />
- 
-          <script type="application/ld+json">
-{
+            <script type="application/ld+json">
+              {JSON.stringify(
+              {
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
   "name": "Helion Studio",
@@ -67,7 +67,8 @@ export default class MyDocument extends Document {
     "https://www.helion-studio.com/"
   ] 
 }
-</script>      
+              )}
+             </script>
         </body>
       </Html>
     )
