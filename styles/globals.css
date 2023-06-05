@@ -16,7 +16,7 @@
 }
 
 .text-gradient {
-  background: radial-gradient(circle at 10% 20%, rgb(240, 140, 0) 0%, rgb(238, 155, 1) 90% );
+  background: radial-gradient(circle, rgba(255,176,34,1) 0%, rgba(255,87,34,1) 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
