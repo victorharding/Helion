@@ -13,7 +13,6 @@ export default function Layout({ children }) {
   "@id": "",
   "url": "https://www.helion-studio.com/",
   "telephone": "06722336609",
-   "priceRange": " Free Consultation",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "374 Emus Erasmus Ave",
