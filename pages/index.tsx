@@ -4,7 +4,7 @@ import Meta from '../src/components/Meta'
 const index = () =>{
     return(
         <>
-            <Meta title={"Helion Home"}/> 
+            <Meta title={"Helion Studio | Leading software development and innovation firm"}/> 
             <Home/>
         </>
     );
