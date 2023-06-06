@@ -38,7 +38,7 @@ const Meta = ({title, keywords, description, ogTitle, ogType, ogUrl, ogImage}) =
      ogTitle:"Helion Studio | Leading software development and innovation firm",
      ogType: "website",
      ogUrl: "https://helion.digital/",
-     ogImage :"/favicon.ico",
+     ogImage :"/banner.png",
 
  }
 export default Meta;
