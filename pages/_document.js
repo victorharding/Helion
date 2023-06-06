@@ -22,6 +22,9 @@ export default class MyDocument extends Document {
           `,
             }}
           />
+           {/* Facebook Pixel*/}
+          
+          
         </Head>
         <body>
           <Main />
