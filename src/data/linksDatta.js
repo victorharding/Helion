@@ -87,7 +87,7 @@ export const socialMedia = [
   {
     id: 'social-media-1',
     icon: '/assets/instagram.svg',
-    link: 'https://www.instagram.com/',
+    link: 'https://www.instagram.com/helion_studio_',
   },
   {
     id: 'social-media-2',
@@ -97,7 +97,7 @@ export const socialMedia = [
   {
     id: 'social-media-3',
     icon: '/assets/twitter.svg',
-    link: 'https://www.twitter.com/',
+    link: 'https://twitter.com/helion_studio',
   },
   {
     id: 'social-media-4',
