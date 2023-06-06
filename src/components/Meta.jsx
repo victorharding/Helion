@@ -14,16 +14,15 @@ const Meta = ({title, keywords, description, ogTitle, ogType, ogUrl, ogImage}) =
            <meta property="og:type" content={ogType} />
            <meta property="og:url" content={ogUrl} />
            <meta property="og:image" content={ogImage} />
-            <!--   Facebook App ID->
+          
             <meta property="fb:app_id" content=""/>
-            <!--    TWITTER     -->
+         
            <meta name="twitter:card" content="summary_large_image"/> 
            <meta name="twitter:site" content="@helion_studio"/>
            <meta name="twitter:title" content={title}/>
            <meta name="twitter:description" content={description}/>
            <meta name="twitter:image:src" content={ogImage}/>
                
-             <!--    ----------   -->
            <link rel="icon" href="/favicon.ico"></link>  
            <link rel="apple-touch-icon" href="/favicon.ico"></link> 
            <title>{title}</title>
