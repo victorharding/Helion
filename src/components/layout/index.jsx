@@ -42,7 +42,7 @@ export default function Layout({ children }) {
   "sameAs": [
     "https://twitter.com/helion_studio",
     "https://www.instagram.com/helion_studio_",
-    "https://www.helion-studio.com/"
+    "https://www.facebook.com/helionstudiocompany"
   ],
 };
         
