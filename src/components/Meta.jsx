@@ -32,10 +32,10 @@ const Meta = ({title, keywords, description, ogTitle, ogType, ogUrl, ogImage}) =
      )
 }
  Meta.defaultProps = {
-     title: "Helion",
-     keywords: "Software Development Company, ",
-     description: "Software Development Company",
-     ogTitle: "Helion",
+     title: "Helion Studio | Leading software development and innovation firm",
+     keywords: "Software Development Company, Helion Studio, Helion",
+     description: "Helion is a leading software development and innovation firm that empowers the world’s most influential brands through software development.",
+     ogTitle:"Helion Studio | Leading software development and innovation firm",
      ogType: "website",
      ogUrl: "https://helion.digital/",
      ogImage :"/favicon.ico",
