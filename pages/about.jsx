@@ -4,7 +4,7 @@ import Meta from '../src/components/Meta'
 const about = () =>{
     return(
         <>
-            <Meta title={"Helion About"} ogTitle={"Helion About"} ogUrl={"https://www.helion.digital/about"}/> 
+            <Meta title={"Helion Studio About | Leading software development and innovation firm"} ogTitle={"Helion Studio About | Leading software development and innovation firm"} ogUrl={"https://www.helion-studio.com/about"}/> 
             <About/>
         </>
     );
