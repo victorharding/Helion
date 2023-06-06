@@ -87,21 +87,25 @@ export const socialMedia = [
   {
     id: 'social-media-1',
     icon: '/assets/instagram.svg',
+    alt:'Helion Studio on Instagram',
     link: 'https://www.instagram.com/helion_studio_',
   },
   {
     id: 'social-media-2',
     icon: '/assets/facebook.svg',
+    alt:'Helion Studio on Facebook',
     link: 'https://www.facebook.com/',
   },
   {
     id: 'social-media-3',
     icon: '/assets/twitter.svg',
+    alt:'Helion Studio on Twitter',
     link: 'https://twitter.com/helion_studio',
   },
   {
     id: 'social-media-4',
     icon: '/assets/linkedin.svg',
+    alt:'Helion Studio On Linkedin',
     link: 'https://www.linkedin.com/',
   },
 ];
