@@ -94,7 +94,7 @@ export const socialMedia = [
     id: 'social-media-2',
     icon: '/assets/facebook.svg',
     alt:'Helion Studio on Facebook',
-    link: 'https://www.facebook.com/',
+    link: 'https://www.facebook.com/helionstudiocompany',
   },
   {
     id: 'social-media-3',
