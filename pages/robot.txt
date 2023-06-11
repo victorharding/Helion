@@ -1,4 +1,3 @@
-
 User-agent: *
 Allow: /
 Sitemap: http://helion-studio.com/api/site-map
