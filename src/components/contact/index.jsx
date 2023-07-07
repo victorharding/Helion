@@ -27,7 +27,7 @@ const contact = () => {
         <a href="https://goo.gl/maps/ECi4a4ntsfTh9D7E6" target="_blank">374 Emus Erasmus Ave, <br/> Erasmusrand, Pretoria, 0165</a>
         </li>
         <li className="hover:text-secondary">
-        <a href="tel:0672233609">+27 672233609</a>
+        <a href="tel:0870126131">+27 870126131</a>
         </li>
       </ul>
 
