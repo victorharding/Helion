@@ -33,8 +33,8 @@ export const footerLinks = [
         link: 'mailto:info@helion-studio.com',
       },
       {
-        name: '+27 672233609',
-        link: 'tel:0672233609',
+        name: '+27 870126131',
+        link: 'tel:0870126131',
       },
     ],
   },
